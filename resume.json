@@ -1,0 +1,260 @@
+{
+  "basics": {
+    "name": "Joubin Jabbari",
+    "label": "Secure Software Engineer",
+    "picture": "https://jabbari.io/me.png",
+    "email": "joubin@jabbari.io",
+    "phone": "(916) 233-7016",
+    "website": "https://jabbari.io",
+    "summary": "Providing information assurance and system integrity by understanding the entire development cycle. Full-stack software developer with more than 2 years industry experience specializing in secure and scalable software development focusing primarily on software architecture and design.",
+    "location": {
+      "address": "",
+      "postalCode": "CA 94107",
+      "city": "San Francisco",
+      "countryCode": "US",
+      "region": ""
+    },
+    "profiles": [
+      {
+        "network": "Instagram",
+        "username": "joubin",
+        "url": "https://www.instagram.com/joubin/"
+      },
+      {
+        "network": "Github",
+        "username": "joubin",
+        "url": "https://www.github.com/joubin/"
+      },
+      {
+        "network": "Twitter",
+        "username": "joubinj",
+        "url": "https://twitter.com/joubinj"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Federal Reserve Bank of San Francisco",
+      "position": "Software Security Engineer",
+      "website": "frbsf.org",
+      "startDate": "2016-07-18",
+      "endDate": "",
+      "summary": "The National Incident Response Team (NIRT) is an in-house Information Security team that serves the entire Federal Reserve System across the United States and its territories. NIRT is responsible for delivering effective and efficient nationwide cyber intrusion detection, incident response, threat assessment, cyber intelligence, software security, and vulnerability assessment services to the FRS and its clients",
+      "highlights": [
+        "Focusing on integrating secure software development during the SDLC",
+        "Assisted and developed coursework for threat modeling class",
+        "Assisted in a threat model of an application already in production",
+        "Author monthly newsletter focused on security and relevant mitigation factors"
+      ]
+    },
+    {
+      "company": "US Navy - Undersea Warfare Center",
+      "position": "Computer Scientist",
+      "website": "http://www.navsea.navy.mil/Home/WarfareCenters/NUWCKeyport.aspx",
+      "startDate": "2014",
+      "endDate": "2016-07-18",
+      "summary": "Developed a data collection system that had two major requirements: real time data acquisition and security. This was achived using Java and Java RMI for the abstract non-realtime tasks and C for the real time tasks on separate real time systems.",
+      "highlights": [
+        "6 person agile team",
+        "Became a full stack developer by developing everything from an embedded system to a cross platform distributed web controlled system",
+        "Promoted to senior developer after 6 months",
+        "Creating STIGed systems using DISA and NIST standards"
+      ]
+    },
+    {
+      "company": "MITRE - CyberSecurity",
+      "position": "Cyber Security Software Developer",
+      "website": "http://www.mitre.org",
+      "startDate": "2013",
+      "endDate": "2014",
+      "summary": "Researched and developed an algorithm for correlating websites and web applications for their author by analyzing html coding style, cookie data structures, and third-party api usage programmatically",
+      "highlights": [
+        "Researched software vulnerabilities",
+        "Assessed web applications across the web",
+        "Custom scripts written to automate web app analysis"
+      ]
+    },
+    {
+      "company": "Debian Project",
+      "position": "Software Testing",
+      "website": "http://www.debian.org/",
+      "startDate": "2006",
+      "endDate": "2012",
+      "summary": "",
+      "highlights": [
+        "Researched software vulnerabilities",
+        "Automated Packaging for APT",
+        "Kernel Module Development "
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "CSU, Sacramento",
+      "position": "Web Application Security Colloquium",
+      "website": "http://ecs.csus.edu/",
+      "startDate": "2017",
+      "endDate": "",
+      "summary": "Develop material to teach OWASP Top 10 from the perspective of the developer",
+      "highlights": [
+
+      ]
+    },
+    {
+      "organization": "CSU, Sacramento",
+      "position": "White Team Leader for National Collegiate Cyber Defense Competition",
+      "website": "http://ecs.csus.edu/",
+      "startDate": "2013",
+      "endDate": "2014",
+      "summary": "",
+      "highlights": [
+        "Prepare and segment the network",
+        "Use Nagios to judge the blue teams",
+        "Wireshark to analyze the game"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "California State University, Sacramento",
+      "area": "BS: Computer Science",
+      "studyType": "Concentration: Software Security",
+      "startDate": "2010",
+      "endDate": "2014",
+      "gpa": "",
+      "courses": [
+        "CSC 153 - Forensics ",
+        "CSC 154 - Attacks and Countermeasures ",
+        "CSC 152 - Cryptography ",
+        "CSC 199 - Special Problems ",
+        "CSC 140 - Advanced Algorithm Design and Analysis",
+        "CSC 180 - Intelligent Systems",
+        "CSC 250 - Computer Security"
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "Secure Software Programmer-Java (GSSP-JAVA)",
+      "date": "2016",
+      "awarder": "GIAC",
+      "summary": "Developing and designing code securely in Java: Analyst Number 1622"
+    },
+    {
+      "title": "HP Fortify Cert",
+      "date": "2016",
+      "awarder": "HP",
+      "summary": "Certification in HP Fortify and Software Security"
+    },
+    {
+      "title": "Third place ACM programming competition",
+      "date": "2014",
+      "awarder": "California State University, Sacramento",
+      "summary": "ACM International Collegiate Programming Contest (abbreviated as ACM-ICPC or just ICPC) is an annual multi-tiered competitive programming competition among the universities of the world. The contest is sponsored by IBM."
+    },
+    {
+      "title": "Security+ ce",
+      "date": "2015",
+      "awarder": "CompTIA",
+      "summary": "Successfully completed CompTIA certification for work. Verification Code: 66QWMK5GKL4EKQ3N"
+    }
+  ],
+  "publications": [
+    {
+      "name": "Chance",
+      "publisher": "Apple App Store",
+      "releaseDate": "2014",
+      "website": "https://itunes.apple.com/us/app/chance-a-simple-decision-app/id863907909?mt=8",
+      "summary": "First iOS application as a means to test app development and publishing. This app was made in a span of one day in a programming competition."
+    },
+    {
+      "name": "Save Santa",
+      "publisher": "Apple App Store",
+      "releaseDate": "2014",
+      "website": "https://itunes.apple.com/us/app/chance-a-simple-decision-app/id863907909?mt=8",
+      "summary": "First iOS game as a means to test game development and publishing. This game was made in a duration of 1 week."
+    },
+    {
+      "name": "Apple, Google Collect User Data",
+      "publisher": "Wallstreet Journal",
+      "releaseDate": "2009",
+      "website": "http://www.wsj.com/articles/SB10001424052748703983704576277101723453610",
+      "summary": "Analyzed the top 100 apps on the Google Play Store as well as Apple's App Store to determine user privacy and security in comparison to each app's terms of service and privacy policy."
+    }
+  ],
+  "skills": [
+    {
+      "name": "Backend Development",
+      "level": "",
+      "keywords": [
+        "Java",
+        "C",
+        "C++",
+        "Go",
+        "D",
+        "Rust",
+        "Scala",
+        "Swift",
+        "Objective-C",
+        "C#"
+      ]
+    },
+    {
+      "name": "Security",
+      "level": "",
+      "keywords": [
+        "Penetration Testing",
+        "Crypto Analysis",
+        "HP Fortify",
+        "IBM AppScan",
+        "Nessus Scanner",
+        "Metasploit",
+        "OSQuery"
+      ]
+    },
+    {
+      "name": "Web Development",
+      "level": "",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "Javascript",
+        "Groovy",
+        "Grails"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "Farsi",
+      "fluency": "Conversational"
+    }
+  ],
+  "interests": [],
+  "references": [
+    {
+      "name": "TC Niedzialkowski, Software Security Manager, Federal Reserve",
+      "reference": "theodore.c.niedzialkowski@sf.frb.org"
+    },
+    {
+      "name": "Dr. Arad, Computer Science Professor, California State University",
+      "reference": "arad@csus.edu"
+    },
+    {
+      "name": "Ashkan Soltani, Chief Technologist, Federal Trade Commision",
+      "reference": "ashkan.soltani@gmail.com"
+    },
+    {
+      "name": "Malcolm West, Developer, US Navy",
+      "reference": "malcolm.west@navy.mil"
+    },
+    {
+      "name": "Devon Rollins, Project Manager, Mitre",
+      "reference": "drollins@mitre.org"
+    }
+  ]
+}
