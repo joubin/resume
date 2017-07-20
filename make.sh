@@ -14,5 +14,6 @@
 #	wkhtmltopdf --dpi 300 out/resume.html out/resume.pdf	
 #
 
+npm i jsonresume-theme-simplistic
 fluentcv build resume.json TO  out/resume.html --theme node_modules/jsonresume-theme-simplistic/
 wkhtmltopdf --dpi 300 out/resume.html out/resume.pdf 
